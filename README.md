@@ -16,5 +16,3 @@ Selain memenuhi kriteria utama, aplikasi ini juga memiliki beberapa fitur tambah
 - Pencarian buku berdasarkan judul.
 - Tampilan yang rapi dan mudah digunakan.
 - Pilihan untuk menandai buku sebagai "Selesai Dibaca."
-
-Anda dapat menjelajahi koleksi buku Anda dengan nyaman menggunakan aplikasi Bookshelf Apps ini. Selamat menikmati membaca!
